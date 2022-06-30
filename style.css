@@ -1,0 +1,39 @@
+
+    body {
+          background: linear-gradient(rgb(60, 60, 60), rgba(139, 0, 0, 0.75));
+          background-attachment: fixed;
+          text-align: center;
+      }
+    h2 {
+        font-family: : Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+        text-align: center;}
+        
+    img {
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        float: center;
+        border: 10px double white;}
+    .table {
+            display: table;   
+            margin: 0 auto;
+            text-align: center;
+            font-size: 20px;
+        }
+    #bullet-points
+    {
+        text-align: left;
+    }
+    a {
+        color: black
+    }
+    a:hover {
+        color: silver
+    }
+    .images {
+        width: auto;
+        height: 500px;
+        border-radius: 5%;
+        float: center;
+        border: 10px double white;}
